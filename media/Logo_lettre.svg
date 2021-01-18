@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="198.5634"
+   width="96.135803"
+   id="Artwork"
+   viewBox="0 0 96.135803 198.5634"
+   version="1.1"
+   sodipodi:docname="Logo_lettre.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Getronics_Logo_Black_RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="2.5474294"
+     inkscape:cx="114.29739"
+     inkscape:cy="127.17662"
+     inkscape:window-x="2038"
+     inkscape:window-y="1609"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Artwork" />
+  <title
+     id="title2">Getronics_Logo_Black_RGB</title>
+  <g
+     transform="translate(-334.87456,-91.352736)"
+     id="g9">
+    <path
+       style="fill:#00ff00"
+       id="path12"
+       d="m 394.27612,195.13559 v -9.0387 a 48.05,48.05 0 1 0 -23.1079,-0.109 v 9.2568 a 48.0679,48.0679 0 1 0 23.1079,-0.1091 z m -35.15,-55.7295 a 23.8249,23.8249 0 1 1 23.8249,23.8248 23.8249,23.8249 0 0 1 -23.8249,-23.8246 z m 23.8253,126.2455 a 23.8249,23.8249 0 1 1 23.8247,-23.8249 23.8249,23.8249 0 0 1 -23.8247,23.8249 z" />
+  </g>
+</svg>
